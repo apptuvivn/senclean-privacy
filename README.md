@@ -27,7 +27,14 @@ SenClean ("we", "our", "us") is committed to protecting your privacy.
 ## 5. Children's Privacy
 - SenClean is not intended for children under 13
 
-## 6. Contact Us
+## 6. Data Deletion
+- All app data is stored locally on your device only
+- To delete all data: simply uninstall SenClean from your device
+- No data exists on our servers, so no additional deletion is needed
+- For questions about data deletion, contact us via email
+
+## 7. Contact Us
 - Email: contact.phapmedia@gmail.com
+
 
 By using SenClean, you agree to this Privacy Policy.
